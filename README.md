@@ -1,2 +1,2 @@
 # PigGame
-JavaScript Projects
+HTML5 + CSS3 + JavaScript Project
